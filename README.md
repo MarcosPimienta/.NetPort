@@ -1,2 +1,2 @@
 # .NetPort
-C# learning project and portfolio
+Master Mind Game C# learning project and portfolio
