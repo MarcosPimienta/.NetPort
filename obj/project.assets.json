@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\MasterMind\\MasterMind\\MasterMind\\MasterMind.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\MasterMind\\MasterMind.csproj",
       "projectName": "MasterMind",
-      "projectPath": "C:\\Users\\user\\source\\repos\\MasterMind\\MasterMind\\MasterMind\\MasterMind.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\MasterMind\\MasterMind.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\MasterMind\\MasterMind\\MasterMind\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\MasterMind\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
