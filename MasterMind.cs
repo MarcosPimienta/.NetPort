@@ -59,6 +59,11 @@ namespace MasterMind
                     {
                         num += chr.KeyChar;
                         Console.Write(chr.KeyChar);
+                        if (string.IsNullOrEmpty(num))
+                        {
+                            Console.WriteLine("Name can't be empty! Input your name once more");
+                            num = Console.ReadLine();
+                        }
                     }
                 }
                 else
